@@ -36,13 +36,6 @@ body {
   z-index: 100;
 }
 
-.navbar .logo a {
-  font-size: 1.8rem;
-  text-decoration: none;
-  margin-right: 40px;
-  margin-left: 30px;
-  color: #f5f5f7;
-}
 
 #submenu{
     margin: 10px;
@@ -332,7 +325,6 @@ footer{
   height: 50px;
   margin-left: 10px;
   margin-right: -10px;
-  /* font-size: large; */
   background-size: cover;
 }
 
